@@ -3,9 +3,9 @@ entries:
   demo-service:
   - apiVersion: v2
     appVersion: 1.1.0
-    created: "2026-03-12T17:30:08.913857+05:30"
+    created: "2026-03-13T08:56:28.922347+05:30"
     description: A Helm chart for demo service
-    digest: 1c3c6c5f4e952435ab2dee330c2a9193f85642892fe3e6e1e8cba4770d4fe860
+    digest: 475cad181ce1e3818a12d2279393d7e36d71372ef1c4a2b8e65fb42a839bbbbe
     icon: https://helm.sh/img/helm.svg
     keywords:
     - fastapi
@@ -19,4 +19,4 @@ entries:
     urls:
     - demo-service-0.2.0.tgz
     version: 0.2.0
-generated: "2026-03-12T17:30:08.913382+05:30"
+generated: "2026-03-13T08:56:28.922011+05:30"
